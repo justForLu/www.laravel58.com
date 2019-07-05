@@ -40,4 +40,8 @@ class LoginController extends Controller
     public function test(){
         echo 'test';
     }
+
+    public function test1(){
+
+    }
 }
