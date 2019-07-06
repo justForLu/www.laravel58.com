@@ -48,6 +48,8 @@ class LoginController extends Controller
 
         echo 'test3';
         echo 'test4';
+
+
     }
 
 
